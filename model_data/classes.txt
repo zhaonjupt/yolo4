@@ -1,0 +1,7 @@
+person
+driver
+car
+bus
+truck
+face
+plate
